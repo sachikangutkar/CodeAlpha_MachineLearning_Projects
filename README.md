@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeAlpha Machine Learning Internship 🧠
 
 This repository contains all the tasks completed as part of the **CodeAlpha Machine Learning Internship**.
@@ -46,3 +47,7 @@ This repository contains all the tasks completed as part of the **CodeAlpha Mach
 **Internship:** CodeAlpha - Machine Learning Internship  
 **Duration:** October 2025  
 **Language:** Python  
+=======
+# CodeAlpha_MachineLearning_Projects
+This repository contains all four Machine Learning projects completed during my CodeAlpha Machine Learning Internship. Each task demonstrates the application of key ML concepts, data preprocessing techniques, and model evaluation methods using Python and Scikit-learn.  
+>>>>>>> 3e6f6eddbb79bbe4219a1830eb8396abd831576a
